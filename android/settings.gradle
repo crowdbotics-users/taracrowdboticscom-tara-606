@@ -1,0 +1,3 @@
+rootProject.name = 'taracrowdboticscom_tara_606'
+
+include ':app'
